@@ -1,5 +1,3 @@
-
-
 \*\*Figure 1: Overview of CNF benchmark scale and structure—number of variables, clauses, density, and clause-length distribution.\*\*
 
 
