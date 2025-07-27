@@ -1,4 +1,4 @@
-\*\*Figure 1: Boxplot of solving times for 124 CNF instances.  
+\*\*Figure 1: Boxplot of solving times for 124 CNF instances.
 
 The plot marks the median, quartiles, inter-quartile range, and upper/lower whiskers, illustrating the distribution range and dispersion of solving times.\*\*
 
@@ -7,18 +7,6 @@ The plot marks the median, quartiles, inter-quartile range, and upper/lower whis
 !\[](./boxplot\_cpu.png)
 
 \*\*Table 1：Statistics on the number of SAT solver invocations, the time spent on SAT solving, and the total runtime in the DivSampCA algorithm.\*\*
-
-| Instances             |   SAT\_time(s) |   cpu\_time(s) |   Number of SAT solver invocations |
-
-|:---------------------|-----------:|-----------:|---------------------:|
-
-| XSEngine.cnf         |   1.84675  |     11.545 |               134464 |
-
-| aaed2000.cnf         |   2.19605  |     14.536 |               144753 |
-
-| adder.cnf            |   1.90445  |     11.773 |               146866 |
-
-| adderII.cnf          |   1.91232  |     11.832 |       \*\*Table 1：Statistics on the number of SAT solver invocations, the time spent on SAT solving, and the total runtime in the DivSampCA algorithm.\*\*
 
 | Instances             |   SAT\_time(s) |   cpu\_time(s) |   Number of SAT solver invocations |
 
@@ -272,7 +260,7 @@ The plot marks the median, quartiles, inter-quartile range, and upper/lower whis
 
 | vrc4375.cnf          |   2.1351   |     13.789 |               140330 |
 
-&nbsp;       147347 |
+        147347 |
 
 | aeb.cnf              |   1.72025  |     10.603 |               128019 |
 
@@ -513,6 +501,4 @@ The plot marks the median, quartiles, inter-quartile range, and upper/lower whis
 | vrc4373.cnf          |   1.97018  |     12.487 |               135177 |
 
 | vrc4375.cnf          |   2.1351   |     13.789 |               140330 |
-
-
 
